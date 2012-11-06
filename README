@@ -1,0 +1,5 @@
+This is a web-resident program to help taxonomic workers to make and deploy web-resident keys. It is written in python/Django with mariadb. Basic tool will reside on TheWorkingComputer.com, but will be available for researchers to deploy on any server that supports python/django/mariadb.
+
+Principal: David Moser
+
+bugmo@theworkingcomputer.biz.ly
